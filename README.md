@@ -1,4 +1,4 @@
-<h1 align="left">Holas, soy Christian</h1>
+<h1 align="left">Hola, soy Christian</h1>
 
 ###
 
