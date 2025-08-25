@@ -1,8 +1,8 @@
-<h1 align="left">Hola, soy Christian</h1>
+<h1 align="left">Christian (Chase)</h1>
 
 ###
 
-<p align="left">Desarrollador full-stack en proceso.<br>Especializado en el ecosistema Javascript. <br>Programar, levantar pesas y pc gaming. 👹</p>
+<p align="left">Desarrollador full-stack en Everflame design<br>Ecosistema Javascript. <br>Programar, levantar pesas y pc gaming. 👹</p>
 
 ###
 
