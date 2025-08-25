@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador full-stack en Everflame design<br>Ecosistema Javascript. <br>Programar, levantar pesas y pc gaming. 👹</p>
+<p align="left">Desarrollador full-stack en Everflame design<br>Ecosistema Javascript. <br>👹</p>
 
 ###
 
